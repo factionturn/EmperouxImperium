@@ -1,12 +1,6 @@
 # Hugo configuration file
 title: Faction Turn
 
-params:
-  theme:
-    # light | dark | system
-    default: dark
-    displayToggle: true
-
 # import hextra as module
 module:
   imports:
@@ -49,6 +43,11 @@ menu:
         icon: x-twitter
 
 params:
+  theme:
+    # light | dark | system
+    default: dark
+    displayToggle: true
+
   navbar:
     displayTitle: true
     displayLogo: false
