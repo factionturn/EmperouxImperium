@@ -1,6 +1,12 @@
 # Hugo configuration file
 title: Faction Turn
 
+params:
+  theme:
+    # light | dark | system
+    default: dark
+    displayToggle: true
+
 # import hextra as module
 module:
   imports:
