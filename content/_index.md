@@ -1,6 +1,6 @@
 ---
-title: My Site
-toc: false
+title: Emperoux Imperium
+toc: true
 ---
 
 This is the landing page.
