@@ -1,6 +1,8 @@
 ---
 title: Emperoux Imperium
 toc: true
+sidebar:
+  open: true
 ---
 
 This is the landing page.
