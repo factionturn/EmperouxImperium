@@ -50,7 +50,7 @@ params:
 
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: True
 
   footer:
     displayCopyright: false
