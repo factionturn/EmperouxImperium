@@ -26,19 +26,14 @@ menu:
       weight: 2
     - name: Contact ↗
       url: "factionturn@gmail.com"
-      weight: 4
-    - name: Search
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
-    - name: GitHub
+    - name: Discord
       weight: 5
-      url: "https://github.com/factionturn/EmperouxImperium/"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
+      url: "https://discord.gg/xVfKZA6ZjG"
       params:
         icon: discord
 
