@@ -37,7 +37,7 @@ menu:
       params:
         icon: discord
   sidebar:
-    - name: More
+    - name: - - - - -
       params:
         type: separator
       weight: 1
