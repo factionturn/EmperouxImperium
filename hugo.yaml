@@ -40,7 +40,7 @@ menu:
       weight: 6
       url: "https://twitter.com/"
       params:
-        icon: x-twitter
+        icon: discord
 
 params:
   theme:
@@ -50,7 +50,13 @@ params:
 
   navbar:
     displayTitle: true
-    displayLogo: True
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 40
+      height: 20
 
   footer:
     displayCopyright: false
