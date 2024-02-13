@@ -18,17 +18,17 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Rules
       pageRef: /docs
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Sector
+      pageRef: /sector
       weight: 2
     - name: Contact ↗
       url: "factionturn@gmail.com"
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 3
       params:
         type: search
     - name: GitHub
