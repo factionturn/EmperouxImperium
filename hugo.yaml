@@ -60,7 +60,8 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
-      link: /EmperouxImperium
+      link: 
+      url: "https://factionturn.github.io/EmperouxImperium/"
       width: 40
       height: 20
 
