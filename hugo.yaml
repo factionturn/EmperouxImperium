@@ -25,7 +25,7 @@ menu:
       pageRef: /sector
       weight: 2
     - name: Contact ↗
-      url: "factionturn@gmail.com"
+      email: "factionturn@gmail.com"
       weight: 3
     - name: Search
       weight: 4
