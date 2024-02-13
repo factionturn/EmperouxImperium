@@ -11,6 +11,6 @@ sidebar:
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Rules" icon="book-open" >}}
-  {{< card link="about" title="Sector" icon="map" >}}
+  {{< card link="rules" title="Rules" icon="book-open" >}}
+  {{< card link="sector" title="Sector" icon="map" >}}
 {{< /cards >}}
